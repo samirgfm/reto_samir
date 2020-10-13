@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samirgfm/CLionProjects/RetoMeteologica/json/json.hpp
+cstdint
+-
+cmath
+-
+cctype
+-
+string
+-
+deque
+-
+map
+-
+type_traits
+-
+initializer_list
+-
+ostream
+-
+iostream
+-
+
+/Users/samirgfm/CLionProjects/RetoMeteologica/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+json/json.hpp
+/Users/samirgfm/CLionProjects/RetoMeteologica/json/json.hpp
+
